@@ -1,4 +1,4 @@
-# Ghazal Nazari - Data Science and AI Enthusiast 👩‍💻
+# Ghazal Nazari - Data Scientist 👩‍💻
 
 Hello, I'm Ghazal Nazari, a passionate data scientist and AI enthusiast with a master's degree in industrial engineering and international management. Currently, I am gaining valuable experience as a week student at Mercedes Benz service group in Berlin. My diverse background includes roles in business, finance, supply chain, industrial engineering, and project management.
 
